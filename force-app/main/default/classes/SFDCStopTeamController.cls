@@ -430,7 +430,7 @@ public class SFDCStopTeamController {
         );
         sfdcstopContributors.add(
             new Contributor(
-                'venuGoud',
+                'venuGoudg',
                 'https://avatars.githubusercontent.com/u/119279583?v=4',
                 Date.newInstance(2023, 08, 12),
                 'https://trailhead.salesforce.com/today/new_user'
